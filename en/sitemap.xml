@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://wadelogan.github.io/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://wadelogan.github.io/ja/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wadelogan.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://wadelogan.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wadelogan.github.io/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wadelogan.github.io/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://wadelogan.github.io/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wadelogan.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://wadelogan.github.io/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://wadelogan.github.io/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wadelogan.github.io/tags/"
+                />
+  </url>
+  
+</urlset>
